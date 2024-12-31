@@ -22,7 +22,21 @@ int main()
                 addStudent (studentsFile); 
                 break; 
             }
-              
+
+              // This is my work
+
+
+
+
+
+
+
+
+
+
+
+              //
+            //case 2: {    }
                  case 2: {
                 Student* students = readFile (studentsFile); 
                 displayStudents (students, count(studentsFile));
